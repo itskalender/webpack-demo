@@ -4,7 +4,9 @@
   "description": "",
   "private": true,
   "packageManager": "pnpm@9.2.0",
-  "scripts": {},
+  "scripts": {
+    "build": "webpack"
+  },
   "keywords": [],
   "author": "Kalender",
   "license": "ISC",
